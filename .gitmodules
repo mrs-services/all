@@ -1,0 +1,9 @@
+[submodule "account"]
+	path = account
+	url = git@github.com:mrs-services/account.git
+[submodule "reservation"]
+	path = reservation
+	url = git@github.com:mrs-services/reservation.git
+[submodule "mrs-ui"]
+	path = mrs-ui
+	url = git@github.com:mrs-services/mrs-ui.git
