@@ -7,3 +7,6 @@
 [submodule "mrs-ui"]
 	path = mrs-ui
 	url = git@github.com:mrs-services/mrs-ui.git
+[submodule "notification"]
+	path = notification
+	url = git@github.com:mrs-services/notification.git
