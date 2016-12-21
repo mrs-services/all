@@ -3,7 +3,7 @@
 	url = https://github.com/mrs-services/account.git
 [submodule "reservation"]
 	path = reservation
-	url = https://github.com/mrs-service/reservation.git
+	url = https://github.com/mrs-services/reservation.git
 [submodule "mrs-ui"]
 	path = mrs-ui
 	url = https://github.com/mrs-services/mrs-ui.git
