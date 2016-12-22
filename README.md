@@ -6,26 +6,26 @@ as a Spring Cloud showcase
 
 ## Services
 
-* [UI](mrs-ui)
+* [UI](https://github.com/mrs-services/mrs-ui)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Client, Ribbon, Hystrix)
     * Spring Cloud Stream
     * Spring Cloud Sleuth
     * Spring Cloud Security (OAuth 2 SSO)
-* [Reservation](reservation)
+* [Reservation](https://github.com/mrs-services/reservation)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Client, Ribbon, Hystrix)
     * Spring Cloud Stream
     * Spring Cloud Sleuth
     * Spring Cloud Security (Resource Server)
     * Spring Cloud Contract
-* [Notification](notification)
+* [Notification](https://github.com/mrs-services/notification)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Client)
     * Spring Cloud Sleuth
     * Spring Cloud Security (Resource Server)
     * Spring Cloud Contract
-* [Account](account)
+* [Account](https://github.com/mrs-services/account)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Client)
     * Spring Cloud Sleuth
@@ -34,19 +34,19 @@ as a Spring Cloud showcase
 
 ## Backends
 
-* [Config Server](local-backends/config-server)
+* [Config Server](https://github.com/mrs-services/local-backends/config-server)
     * Spring Cloud Config
-* [Eureka Server](local-backends/eureka-server)
+* [Eureka Server](https://github.com/mrs-services/local-backends/eureka-server)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Server)
-* [Zipkin Server](local-backends/zipkin-server)
+* [Zipkin Server](https://github.com/mrs-services/local-backends/zipkin-server)
     * Spring Cloud Config
     * Spring Cloud Stream
     * Spring Cloud Sleuth
-* [Turbine Server](local-backends/turbine-server)
+* [Turbine Server](https://github.com/mrs-services/local-backends/turbine-server)
     * Spring Cloud Config
     * Spring Cloud Netflix (Turbine Stream)
     * Spring Cloud Stream
-* [Hystrix Dashboard](local-backends/hystrix-dashboard)
+* [Hystrix Dashboard](https://github.com/mrs-services/local-backends/hystrix-dashboard)
     * Spring Cloud Config
     * Spring Cloud Netflix (Hystrix Dashboard)
