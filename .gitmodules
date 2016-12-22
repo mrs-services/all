@@ -10,3 +10,6 @@
 [submodule "notification"]
 	path = notification
 	url = https://github.com/mrs-services/notification.git
+[submodule "local-backends"]
+	path = local-backends
+	url = https://github.com/mrs-services/local-backends.git
