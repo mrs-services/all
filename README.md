@@ -34,19 +34,19 @@ as a Spring Cloud showcase
 
 ## Backends
 
-* [Config Server](https://github.com/mrs-services/local-backends/config-server)
+* [Config Server](https://github.com/mrs-services/local-backends/tree/master/config-server)
     * Spring Cloud Config
-* [Eureka Server](https://github.com/mrs-services/local-backends/eureka-server)
+* [Eureka Server](https://github.com/mrs-services/local-backends/tree/master/eureka-server)
     * Spring Cloud Config
     * Spring Cloud Netflix (Eukreka Server)
-* [Zipkin Server](https://github.com/mrs-services/local-backends/zipkin-server)
+* [Zipkin Server](https://github.com/mrs-services/local-backends/tree/master/zipkin-server)
     * Spring Cloud Config
     * Spring Cloud Stream
     * Spring Cloud Sleuth
-* [Turbine Server](https://github.com/mrs-services/local-backends/turbine-server)
+* [Turbine Server](https://github.com/mrs-services/local-backends/tree/master/turbine-server)
     * Spring Cloud Config
     * Spring Cloud Netflix (Turbine Stream)
     * Spring Cloud Stream
-* [Hystrix Dashboard](https://github.com/mrs-services/local-backends/hystrix-dashboard)
+* [Hystrix Dashboard](https://github.com/mrs-services/local-backends/tree/master/hystrix-dashboard)
     * Spring Cloud Config
     * Spring Cloud Netflix (Hystrix Dashboard)
